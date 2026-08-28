@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PAA Empire Holdings</title>
+  <meta name="description" content="PAA Empire Holdings - Coming Soon" />
+  <style>
+    :root {
+      --bg: #f7f6f4;
+      --text: #12171a;
+      --muted: #6b6560;
+      --accent: #ac8e60;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      height: 100%;
+    }
+
+    body {
+      min-height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(ellipse at 50% 20%, #ffffff 0%, transparent 55%),
+        linear-gradient(180deg, #faf9f7 0%, var(--bg) 100%);
+      color: var(--text);
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-align: center;
+      padding: 2rem 1.25rem;
+    }
+
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.75rem;
+      max-width: 28rem;
+      width: 100%;
+      animation: fadeUp 0.9s ease-out both;
+    }
+
+    .logo {
+      width: min(260px, 72vw);
+      height: auto;
+      display: block;
+    }
+
+    .coming-soon {
+      font-size: clamp(0.95rem, 2.5vw, 1.1rem);
+      font-weight: 500;
+      letter-spacing: 0.28em;
+      text-transform: uppercase;
+      color: var(--text);
+    }
+
+    .tagline {
+      font-size: 0.9rem;
+      line-height: 1.5;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+    }
+
+    .rule {
+      width: 2.5rem;
+      height: 1px;
+      background: var(--accent);
+      border: 0;
+      opacity: 0.85;
+    }
+
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <img
+      class="logo"
+      src="logo.png"
+      alt="PAA Empire Holdings"
+      width="260"
+      height="231"
+    />
+    <hr class="rule" />
+    <p class="coming-soon">Coming Soon</p>
+    <p class="tagline">We're preparing something new.</p>
+  </main>
+</body>
+</html>
