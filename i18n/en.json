@@ -1,0 +1,348 @@
+{
+  "nav": {
+    "whoWeAre": "Who we are",
+    "investmentApproach": "Investment approach",
+    "ourBusiness": "Our business",
+    "contact": "Contact"
+  },
+  "lang": {
+    "label": "Language",
+    "vi": "VI",
+    "en": "EN",
+    "zh": "中文",
+    "lo": "ລາວ"
+  },
+  "common": {
+    "scroll": "Scroll",
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "headquarters": "Headquarters",
+    "copyright": "© PAA Empire Holdings",
+    "all": "All",
+    "build": "Build",
+    "acquire": "Acquire",
+    "partner": "Partner",
+    "invest": "Invest"
+  },
+  "home": {
+    "heroLabel": "PAA Empire Holdings",
+    "heroLine1": "We build businesses.",
+    "heroLine2": "Create real value.",
+    "heroLine3": "Share prosperity.",
+    "aboutLabel": "About",
+    "aboutTitle": "PAA Empire Holdings",
+    "aboutP1": "PAA Empire Holdings is a diversified investment company focused on building, investing in, and developing businesses with the potential to create long-term value.",
+    "aboutP2": "PAA operates across five core sectors — Agriculture, Food Processing & Manufacturing, Natural Materials, Trading, Import & Export, and Real Estate.",
+    "aboutP3": "Rooted in Southeast Asia with a global outlook, PAA Empire Holdings seeks to unlock the potential of the region's resources, people, and production capabilities. We connect resources, production, technology, and markets, transforming existing potential into valuable businesses and building value chains designed to grow sustainably over time.",
+    "aboutP4": "By developing interconnected and complementary businesses, PAA aims to create long-term value across the entire value chain — from raw materials, production, and processing to trade and international markets.",
+    "aboutHq": "Headquartered in Vientiane, Lao PDR.",
+    "businessesLabel": "Our businesses",
+    "businessesTitle": "PAA Empire Holdings",
+    "sectors": {
+      "agriculture": "Agriculture",
+      "food": "Food Processing & Manufacturing",
+      "materials": "Natural Materials",
+      "trading": "Trading, Import & Export",
+      "realEstate": "Real Estate"
+    },
+    "learnTitle": "Learn more",
+    "linkWhoTitle": "Who we are",
+    "linkWhoText": "A diversified investment company rooted in Southeast Asia, headquartered in Vientiane.",
+    "linkInvestTitle": "Investment approach",
+    "linkInvestText": "We build, invest in, and develop complementary businesses designed to grow over time.",
+    "linkBizTitle": "Our business",
+    "linkBizText": "Five interconnected sectors spanning the value chain — from resources to global markets."
+  },
+  "about": {
+    "heroLabel": "About us",
+    "heroTitle": "PAA Empire Holdings",
+    "introTitle": "PAA Empire Holdings",
+    "introP1": "A diversified investment company focused on building, investing in, and developing businesses with the potential to create long-term value.",
+    "introP2": "Rooted in Southeast Asia with a global outlook, PAA connects resources, production, technology, and markets — from raw materials and processing to international trade.",
+    "introHq": "Headquartered in Vientiane, Lao PDR.",
+    "sectorAgriculture": "Agriculture",
+    "sectorFood": "Food Processing",
+    "sectorMaterials": "Natural Materials",
+    "sectorTrading": "Trading",
+    "sectorRealEstate": "Real Estate",
+    "valuesLabel": "Core values",
+    "valuesTitle": "Five guiding principles",
+    "valuesIntro": "We are the first generation. What we build today is the foundation for the future — long-term thinking, integrity, and real value.",
+    "values": {
+      "adapt": {
+        "title": "Adapt",
+        "text": "Understand change before change understands you.",
+        "badge": "Timely"
+      },
+      "build": {
+        "title": "Build",
+        "text": "Turn opportunity into real enterprise.",
+        "badge": "Create"
+      },
+      "honor": {
+        "title": "Honor",
+        "text": "Word and commitment are the foundation.",
+        "badge": "Trust"
+      },
+      "sustain": {
+        "title": "Sustain",
+        "text": "Create value lasting enough for the next generation.",
+        "badge": "Sustain"
+      },
+      "share": {
+        "title": "Share",
+        "text": "Business and community prosper together.",
+        "badge": "Co-create"
+      }
+    },
+    "journeyLabel": "Journey",
+    "journeyTitle": "Our journey began in 2023",
+    "journeyP1": "In 2023, a journey to Laos in search of opportunities in mining unexpectedly opened an entirely different path.",
+    "journeyP2": "On the roads of Laos, among resource-rich lands and farmers bringing rubber latex to traders, we saw a simple opportunity: connect local resources to markets. From a first rubber collection point, operations expanded quickly. Into the cassava season, we continued building agricultural collection points. By the third year, that journey led P.A.A. into livestock — beginning with buffalo and cattle.",
+    "journeyP3": "Every step began by observing a real need, seeing untapped value, and turning it into a business model that could grow for the long term. The history of P.A.A. is a story of entrepreneurship guided by insight and compassion — from the earliest trading activities to the aspiration to build an internationally minded group that creates lasting value for society.",
+    "milestonesIntro": "Explore the milestones that have shaped the journey of P.A.A.",
+    "m1": "Starting from a calculated risk",
+    "m2": "A phase of growth and consolidation",
+    "m3": "Entering agriculture with a distinctive focus: circular agriculture",
+    "m4": "The origin of our five core values",
+    "firstGenLabel": "First generation",
+    "firstGenTitle": "A foundation for entrepreneurship",
+    "firstGenP1": "PAA began with agricultural trading in Laos — from rubber and cassava to livestock — where we learned to see opportunity in the region's existing resources.",
+    "firstGenP2": "From trading, PAA gradually expanded into agriculture, processing, natural materials, import-export, and mutually reinforcing fields. Every step followed one consistent mindset: understand the resource, seize the opportunity, and turn it into businesses that create real value.",
+    "firstGenP3": "We are the first generation of PAA. What we build is therefore not only businesses, but also the principles, values, and foundation for the generations that follow.",
+    "principles": "ADAPT · BUILD · HONOR · SUSTAIN · SHARE",
+    "foundationTitle": "Create prosperity to share",
+    "foundationP1": "PAA believes that value created through business should reach beyond the enterprise itself.",
+    "foundationP2": "As the company grows, our long-term direction is to establish the PAA Foundation — a fund dedicated to supporting communities in Southeast Asia and gradually expanding across Asia.",
+    "foundationP3": "The foundation will focus on creating opportunity through education, entrepreneurship, sustainable livelihoods, and community development — especially where PAA is present and active.",
+    "foundationP4": "Our aspiration is clear: build successful businesses, return a share of that success to society, and create more opportunity for the generations that follow."
+  },
+  "investment": {
+    "heroLabel": "Investment approach",
+    "heroTitle1": "Investing in Agriculture.",
+    "heroTitle2": "Building a Circular Future.",
+    "strategyLabel": "Investment strategy",
+    "strategyTitle": "We invest for the future",
+    "strategyIntro": "When we invest, we look for where three things overlap.",
+    "regionalTitle": "Regional potential",
+    "regionalText": "We invest where Southeast Asia has a natural advantage.",
+    "realValueTitle": "Real value",
+    "realValueText": "We build businesses that turn resources into higher-value products and opportunities.",
+    "capabilitiesTitle": "Our capabilities",
+    "capabilitiesText": "The company can benefit from PAA's entrepreneurship, networks, market access and execution.",
+    "overlapNote": "Where regional potential, real value and PAA's capabilities meet — that is where we build businesses.",
+    "themesLabel": "Investment themes",
+    "themesTitle": "Five themes with long-term growth and shared value",
+    "themes": {
+      "globalTrade": {
+        "title": "Global trade",
+        "subtitle": "Global trade",
+        "body": "Southeast Asia holds resources, production capacity, and a strategic position in global supply chains. PAA connects these advantages to international markets through trade, import-export, and cross-border value chains.",
+        "tagline": "Connect resources to markets."
+      },
+      "circular": {
+        "title": "Circular economy",
+        "subtitle": "Circular economy",
+        "body": "We see every resource as a value chain, not a single product. PAA develops models that maximize the use of raw materials, by-products, and resources in production.",
+        "tagline": "Use more. Waste less. Create more value."
+      },
+      "zeroWaste": {
+        "title": "Zero waste & environment",
+        "subtitle": "Zero waste & environment",
+        "body": "What is waste in one industry can be feedstock for another. PAA seeks solutions that reduce waste, regenerate resources, and lessen environmental impact.",
+        "tagline": "Waste is a resource in the wrong place."
+      },
+      "sharedValue": {
+        "title": "Shared value",
+        "subtitle": "Shared community value",
+        "body": "Sustainable growth is not measured by profit alone. PAA pursues models where our development also creates opportunity for workers, farmers, partners, and communities.",
+        "tagline": "When we grow, others should grow with us."
+      },
+      "valueAdded": {
+        "title": "Value-added production",
+        "subtitle": "Elevating resource value",
+        "body": "Southeast Asia has abundant resources yet often trades them as raw materials. PAA goes further — from feedstock to processing, products, brands, and international markets.",
+        "tagline": "From resources to higher value."
+      }
+    },
+    "themesClosing": "Take what the region has. Add value. Waste less. Connect it to the world. Share the prosperity.",
+    "ownershipLabel": "Ownership",
+    "ownershipTitle": "Owners with purpose",
+    "ownershipIntro": "We build with a long-term purpose.",
+    "buildGuide": {
+      "title": "We build and guide",
+      "text": "As an owner, PAA does more than provide capital. We walk alongside each business — with direction, resources, networks, and market access — so every enterprise can grow independently and create lasting value."
+    },
+    "seekDevelop": {
+      "title": "We seek to develop",
+      "text": "PAA seeks businesses and opportunities with real potential, strengthens their capabilities, connects them within value chains, and gradually brings them to larger markets."
+    },
+    "facilitate": {
+      "title": "We facilitate a network",
+      "text": "We connect resources, people, technology, partners, and markets — an ecosystem where businesses reinforce one another and grow together."
+    },
+    "ownershipClosing": "We are the first generation. What we build today — businesses, culture, principles, and relationships — is the foundation for the next. Our vision: build businesses whose value outlasts a single generation."
+  },
+  "business": {
+    "heroLabel": "Our business",
+    "heroTitle": "A connected portfolio of businesses built for long-term value.",
+    "heroSubtitle": "A connected ecosystem of businesses built to create long-term value.",
+    "howLabel": "How we form the portfolio",
+    "howTitle": "We build, acquire, partner and invest.",
+    "howSubtitle": "We build, acquire, partner and invest.",
+    "howIntro": "PAA builds a connected portfolio of businesses across the value chain. We combine entrepreneurship, capital, resources, partnerships and market access to build businesses with the potential to create long-term value.",
+    "paths": {
+      "build": {
+        "title": "Build",
+        "subtitle": "Build from the ground up",
+        "text": "PAA directly builds businesses from opportunities and resources we understand deeply."
+      },
+      "acquire": {
+        "title": "Acquire",
+        "subtitle": "Acquire",
+        "text": "Invest in or take control of businesses with an existing foundation, then bring PAA's resources and network to scale them."
+      },
+      "partner": {
+        "title": "Partner",
+        "subtitle": "Partner",
+        "text": "Joint ventures with partners who hold technology, resources, markets, or capabilities that complement the PAA ecosystem."
+      },
+      "invest": {
+        "title": "Invest",
+        "subtitle": "Invest",
+        "text": "Deploy capital into businesses with long-term potential that align with PAA's strategic sectors."
+      }
+    },
+    "groupLabel": "The PAA Group",
+    "groupTitle": "Companies across the value chain",
+    "filterAll": "All",
+    "filterBuild": "Build",
+    "filterAcquire": "Acquire",
+    "filterPartner": "Partner",
+    "filterInvest": "Invest",
+    "companies": {
+      "paaAgro": {
+        "name": "PAA Agro",
+        "path": "Build",
+        "meta": "Agriculture · Est. 2023 · Vientiane",
+        "summary": "An integrated agricultural platform across rubber, cassava and cattle in Lao PDR."
+      },
+      "mekongLatex": {
+        "name": "Mekong Latex",
+        "path": "Acquire",
+        "meta": "Natural materials · Est. 2016 · Champasak",
+        "summary": "Natural rubber and latex processing in southern Lao PDR."
+      },
+      "savannakhetFoods": {
+        "name": "Savannakhet Foods",
+        "path": "Build",
+        "meta": "Food processing · Est. 2024 · Savannakhet",
+        "summary": "Food processing operations connecting regional produce to markets."
+      },
+      "lanXangTrading": {
+        "name": "Lan Xang Trading",
+        "path": "Partner",
+        "meta": "Trading · Est. 2019 · Vientiane",
+        "summary": "Trading and cross-border commerce across the Mekong region."
+      },
+      "thatLuangEstates": {
+        "name": "That Luang Estates",
+        "path": "Invest",
+        "meta": "Real estate · Est. 2018 · Vientiane",
+        "summary": "Real estate development and property investment in Vientiane."
+      },
+      "bolavenCassava": {
+        "name": "Bolaven Cassava",
+        "path": "Acquire",
+        "meta": "Agriculture · Est. 2014 · Bolaven Plateau",
+        "summary": "Cassava cultivation and aggregation on the Bolaven Plateau."
+      },
+      "indochinaPack": {
+        "name": "Indochina Pack",
+        "path": "Partner",
+        "meta": "Food processing · Est. 2021 · Bangkok",
+        "summary": "Packaging and food processing partnership based in Bangkok."
+      },
+      "annamTimber": {
+        "name": "Annam Timber",
+        "path": "Invest",
+        "meta": "Natural materials · Est. 2012 · Attapeu",
+        "summary": "Sustainable timber and natural materials in Attapeu."
+      }
+    }
+  },
+  "paaAgro": {
+    "path": "Build",
+    "title": "PAA Agro",
+    "tagline": "An integrated agricultural platform across rubber, cassava and cattle in Lao PDR.",
+    "p1": "PAA Agro is the originating operating company of PAA Empire Holdings. Founded in 2023 in Vientiane, it develops connected agricultural businesses — from rubber and cassava to cattle — linking land, production and markets across Lao PDR and the Mekong region.",
+    "p2": "From plantation and collection to processing and market access, PAA Agro builds an integrated platform designed for long-term agricultural value in Lao PDR.",
+    "cta": "Learn more at PAA Agro's website →",
+    "facts": {
+      "path": {
+        "label": "Path",
+        "value": "Build"
+      },
+      "established": {
+        "label": "Established",
+        "value": "2023"
+      },
+      "ownership": {
+        "label": "Ownership",
+        "value": "100%"
+      },
+      "sector": {
+        "label": "Sector",
+        "value": "Agriculture"
+      },
+      "hq": {
+        "label": "Headquarters",
+        "value": "Vientiane, Lao PDR"
+      },
+      "land": {
+        "label": "Land under management",
+        "value": "12,400 ha"
+      },
+      "people": {
+        "label": "People",
+        "value": "480"
+      },
+      "md": {
+        "label": "Managing Director",
+        "value": "Khamla Phommasane"
+      }
+    },
+    "relatedTitle": "Companies across the value chain"
+  },
+  "contact": {
+    "heroLabel": "Contact",
+    "heroTitle": "Headquartered in Vientiane.",
+    "heroSubtitle": "Based in Vientiane, Lao PDR.",
+    "visitingLabel": "Visiting address",
+    "visitingLines": [
+      "PAA Empire Holdings",
+      "Lane Xang Avenue, Unit 12",
+      "Vientiane Capital, Lao PDR"
+    ],
+    "postalLabel": "Postal address",
+    "postalLines": [
+      "PAA Empire Holdings",
+      "P.O. Box 3180",
+      "Vientiane Capital, Lao PDR"
+    ],
+    "generalLabel": "General inquiries",
+    "phone": "+856 21 254 180",
+    "email": "contact@paa.holdings",
+    "pressLabel": "Press contact",
+    "pressName": "Sengphet Vongphachanh",
+    "pressPhone": "+856 20 5551 2040",
+    "pressEmail": "contact@paa.holdings",
+    "locationLabel": "Location",
+    "locationCaption": "Lane Xang Avenue, Vientiane Capital"
+  },
+  "footer": {
+    "hqLabel": "Headquarters",
+    "company": "PAA Empire Holdings",
+    "location": "Vientiane, Lao PDR"
+  }
+}

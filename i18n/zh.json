@@ -1,0 +1,348 @@
+{
+  "nav": {
+    "whoWeAre": "我们是谁",
+    "investmentApproach": "投资方法",
+    "ourBusiness": "我们的业务",
+    "contact": "联系我们"
+  },
+  "lang": {
+    "label": "语言",
+    "vi": "VI",
+    "en": "EN",
+    "zh": "中文",
+    "lo": "ລາວ"
+  },
+  "common": {
+    "scroll": "向下滚动",
+    "learnMore": "了解更多",
+    "readMore": "阅读更多",
+    "headquarters": "总部",
+    "copyright": "© PAA Empire Holdings",
+    "all": "全部",
+    "build": "自建",
+    "acquire": "收购",
+    "partner": "合作",
+    "invest": "投资"
+  },
+  "home": {
+    "heroLabel": "PAA Empire Holdings",
+    "heroLine1": "我们创建企业。",
+    "heroLine2": "创造真实价值。",
+    "heroLine3": "共享繁荣。",
+    "aboutLabel": "关于我们",
+    "aboutTitle": "PAA Empire Holdings",
+    "aboutP1": "PAA Empire Holdings 是一家多元化投资公司，专注于创建、投资并发展具有长期价值潜力的企业。",
+    "aboutP2": "PAA 业务覆盖五大核心领域——农业、食品加工与制造、天然材料、贸易进出口，以及房地产。",
+    "aboutP3": "植根东南亚、放眼全球，PAA Empire Holdings 致力于释放区域资源、人力与产能潜力。我们连接资源、生产、技术与市场，将现有潜力转化为有价值的企业，并构建可持续成长的价值链。",
+    "aboutP4": "通过发展相互关联、互为补充的企业，PAA 旨在在整条价值链上创造长期价值——从原材料、生产与加工，到贸易与国际市场。",
+    "aboutHq": "总部位于老挝万象。",
+    "businessesLabel": "我们的业务",
+    "businessesTitle": "PAA Empire Holdings",
+    "sectors": {
+      "agriculture": "农业",
+      "food": "食品加工与制造",
+      "materials": "天然材料",
+      "trading": "贸易进出口",
+      "realEstate": "房地产"
+    },
+    "learnTitle": "了解更多",
+    "linkWhoTitle": "我们是谁",
+    "linkWhoText": "一家植根东南亚、总部位于万象的多元化投资公司。",
+    "linkInvestTitle": "投资方法",
+    "linkInvestText": "我们创建、投资并发展互补型企业，着眼长期成长。",
+    "linkBizTitle": "我们的业务",
+    "linkBizText": "五大互联领域贯穿价值链——从资源到全球市场。"
+  },
+  "about": {
+    "heroLabel": "关于我们",
+    "heroTitle": "PAA Empire Holdings",
+    "introTitle": "PAA Empire Holdings",
+    "introP1": "一家多元化投资公司，专注于创建、投资并发展具有长期价值潜力的企业。",
+    "introP2": "植根东南亚、放眼全球，PAA 连接资源、生产、技术与市场——从原材料、加工到国际贸易。",
+    "introHq": "总部位于老挝万象。",
+    "sectorAgriculture": "Agriculture / 农业",
+    "sectorFood": "Food Processing / 食品加工与制造",
+    "sectorMaterials": "Natural Materials / 天然材料",
+    "sectorTrading": "Trading / 进出口贸易",
+    "sectorRealEstate": "Real Estate / 房地产",
+    "valuesLabel": "核心价值",
+    "valuesTitle": "五项指导原则",
+    "valuesIntro": "我们是第一代。今天所建设的一切，都是未来的基石——长期思维、诚信与真实价值。",
+    "values": {
+      "adapt": {
+        "title": "Adapt",
+        "text": "在被改变之前，先理解变化。",
+        "badge": "应时"
+      },
+      "build": {
+        "title": "Build",
+        "text": "将机遇转化为真实企业。",
+        "badge": "创建"
+      },
+      "honor": {
+        "title": "Honor",
+        "text": "言出必行，承诺即基石。",
+        "badge": "守信"
+      },
+      "sustain": {
+        "title": "Sustain",
+        "text": "创造足以惠及下一代的价值。",
+        "badge": "可持续"
+      },
+      "share": {
+        "title": "Share",
+        "text": "企业与社区共同受益。",
+        "badge": "共创"
+      }
+    },
+    "journeyLabel": "历程",
+    "journeyTitle": "我们的旅程始于 2023 年",
+    "journeyP1": "2023 年，一次前往老挝寻找矿业机会的旅程，意外开启了截然不同的方向。",
+    "journeyP2": "在老挝的道路上，置身资源丰饶的土地与将橡胶乳运给商贩的农民之间，我们看到一个朴素的机会：把本地资源与市场连接起来。从第一个橡胶收购点开始，业务迅速扩展。到了木薯季，我们继续建设农产品收购点。到第三年，这段旅程引领 P.A.A. 进入畜牧业——从水牛与黄牛起步。",
+    "journeyP3": "每一步都始于观察真实需求，看见尚未开发的价值，并把它转化为可长期发展的商业模式。P.A.A. 的历史，是一段以智慧与仁心引领的创业故事——从最初的贸易活动，到建设具有国际格局、为社会创造持久价值的企业集团的愿景。",
+    "milestonesIntro": "探索塑造 P.A.A. 历程的关键里程碑。",
+    "m1": "从一次经过审慎计算的风险决策起步",
+    "m2": "增长与巩固阶段",
+    "m3": "进入农业领域，并以循环经济农业为鲜明方向",
+    "m4": "五项核心价值的起源",
+    "firstGenLabel": "第一代",
+    "firstGenTitle": "创业精神的基石",
+    "firstGenP1": "PAA 起步于老挝的农产品贸易——从橡胶、木薯到牲畜——在那里我们学会从区域既有资源中看见机遇。",
+    "firstGenP2": "从贸易出发，PAA 逐步扩展至农业、加工、天然材料、进出口及相互补充的领域。每一步发展都遵循一致理念：理解资源、把握机遇，并转化为创造真实价值的企业。",
+    "firstGenP3": "我们是 PAA 的第一代。因此，我们所建设的不仅是企业，更是原则、价值与基石，好让后代继续前行。",
+    "principles": "ADAPT · BUILD · HONOR · SUSTAIN · SHARE",
+    "foundationTitle": "创造繁荣，共同分享",
+    "foundationP1": "PAA 相信，商业所创造的价值应超越企业本身。",
+    "foundationP2": "随着公司发展，我们的长期方向是成立 PAA Foundation——一个面向东南亚社区支持、并逐步扩展至亚洲的基金。",
+    "foundationP3": "基金将通过教育、创业精神、可持续生计与社区发展创造机会，尤其关注 PAA 所在与运营的地区。",
+    "foundationP4": "我们的愿景十分明确：建设成功的企业，将部分成果回馈社会，并为后代创造更多机会。"
+  },
+  "investment": {
+    "heroLabel": "投资方法",
+    "heroTitle1": "投资农业。",
+    "heroTitle2": "建设循环经济的未来。",
+    "strategyLabel": "投资策略",
+    "strategyTitle": "我们为未来而投资",
+    "strategyIntro": "当我们投资时，寻找三要素重叠之处。",
+    "regionalTitle": "区域潜力",
+    "regionalText": "我们投资于东南亚具有天然优势的领域。",
+    "realValueTitle": "真实价值",
+    "realValueText": "我们创建能将资源转化为更高价值产品与机遇的企业。",
+    "capabilitiesTitle": "我们的能力",
+    "capabilitiesText": "企业可受益于 PAA 的创业精神、网络、市场准入与执行力。",
+    "overlapNote": "当区域潜力、真实价值与 PAA 的能力交汇——那就是我们创建企业的地方。",
+    "themesLabel": "投资主题",
+    "themesTitle": "五项兼具长期增长与共享价值的主题",
+    "themes": {
+      "globalTrade": {
+        "title": "全球贸易",
+        "subtitle": "全球贸易",
+        "body": "东南亚拥有资源、产能以及在全球供应链中的战略位置。PAA 通过贸易、进出口与跨境价值链，将这些优势连接到国际市场。",
+        "tagline": "连接资源与市场。"
+      },
+      "circular": {
+        "title": "循环经济",
+        "subtitle": "循环经济",
+        "body": "我们将每一种资源视为一条价值链，而非单一产品。PAA 发展最大化利用原料、副产品与生产资源的模式。",
+        "tagline": "多用。少废。创造更多价值。"
+      },
+      "zeroWaste": {
+        "title": "零废弃与环境",
+        "subtitle": "零废弃与环境",
+        "body": "一个行业的废弃物，可能是另一个行业的原料。PAA 寻求减少废弃、再生资源并降低环境影响的解决方案。",
+        "tagline": "废弃物是放错地方的资源。"
+      },
+      "sharedValue": {
+        "title": "共享价值",
+        "subtitle": "共享社区价值",
+        "body": "可持续增长不能仅以利润衡量。PAA 追求的模式是：我们的发展同时为劳动者、农民、合作伙伴与社区创造机会。",
+        "tagline": "当我们成长，他人也应一同成长。"
+      },
+      "valueAdded": {
+        "title": "高附加值生产",
+        "subtitle": "提升资源价值",
+        "body": "东南亚资源丰富，却常以原材料形态交易。PAA 走得更远——从原料到加工、产品、品牌与国际市场。",
+        "tagline": "从资源到更高价值。"
+      }
+    },
+    "themesClosing": "开发区域资源。提升价值。减少浪费。连接世界。共享繁荣。",
+    "ownershipLabel": "所有权",
+    "ownershipTitle": "有使命的所有者",
+    "ownershipIntro": "我们以长远目标进行创建。",
+    "buildGuide": {
+      "title": "我们建设并引导",
+      "text": "作为所有者，PAA 不仅提供资本。我们与企业同行——提供方向、资源、网络与市场准入——使每家企业能够独立发展并创造持久价值。"
+    },
+    "seekDevelop": {
+      "title": "我们寻求发展",
+      "text": "PAA 寻找具有真实潜力的企业与机遇，提升其能力，将其连接进价值链，并逐步推向更大市场。"
+    },
+    "facilitate": {
+      "title": "我们促进网络",
+      "text": "我们连接资源、人才、技术、合作伙伴与市场——一个企业彼此补强、共同成长的生态系统。"
+    },
+    "ownershipClosing": "我们是第一代。今天所建设的一切——企业、文化、原则与关系——都是下一代的基石。愿景：建设价值超越一代人的企业。"
+  },
+  "business": {
+    "heroLabel": "我们的业务",
+    "heroTitle": "为长期价值而构建的互联业务组合。",
+    "heroSubtitle": "一个互联的企业生态系统，旨在创造长期价值。",
+    "howLabel": "我们如何构建组合",
+    "howTitle": "我们自建、收购、合作并投资。",
+    "howSubtitle": "我们自建、收购、合作并投资。",
+    "howIntro": "PAA 在整条价值链上构建互联业务组合。我们将创业精神、资本、资源、合作与市场准入相结合，创建具有长期价值潜力的企业。",
+    "paths": {
+      "build": {
+        "title": "自建",
+        "subtitle": "自主创建",
+        "text": "PAA 直接从我们深刻理解的机遇与资源出发创建企业。"
+      },
+      "acquire": {
+        "title": "收购",
+        "subtitle": "收购",
+        "text": "投资或取得已有基础的企业控制权，再引入 PAA 的资源与网络以扩大规模。"
+      },
+      "partner": {
+        "title": "合作",
+        "subtitle": "合作",
+        "text": "与拥有技术、资源、市场或能力、可补充 PAA 生态的伙伴开展合资合作。"
+      },
+      "invest": {
+        "title": "投资",
+        "subtitle": "投资",
+        "text": "将资本投入具有长期潜力、并符合 PAA 战略领域的企业。"
+      }
+    },
+    "groupLabel": "PAA 集团",
+    "groupTitle": "贯穿价值链的公司",
+    "filterAll": "全部",
+    "filterBuild": "自建",
+    "filterAcquire": "收购",
+    "filterPartner": "合作",
+    "filterInvest": "投资",
+    "companies": {
+      "paaAgro": {
+        "name": "PAA Agro",
+        "path": "自建",
+        "meta": "农业 · 成立于 2023 · 万象",
+        "summary": "覆盖橡胶、木薯与畜牧的综合农业平台（老挝）。"
+      },
+      "mekongLatex": {
+        "name": "Mekong Latex",
+        "path": "收购",
+        "meta": "天然材料 · 成立于 2016 · 占巴塞",
+        "summary": "老挝南部天然橡胶与乳胶加工。"
+      },
+      "savannakhetFoods": {
+        "name": "Savannakhet Foods",
+        "path": "自建",
+        "meta": "食品加工 · 成立于 2024 · 沙湾拿吉",
+        "summary": "连接区域农产品与市场的食品加工业务。"
+      },
+      "lanXangTrading": {
+        "name": "Lan Xang Trading",
+        "path": "合作",
+        "meta": "贸易 · 成立于 2019 · 万象",
+        "summary": "湄公河区域贸易与跨境商务。"
+      },
+      "thatLuangEstates": {
+        "name": "That Luang Estates",
+        "path": "投资",
+        "meta": "房地产 · 成立于 2018 · 万象",
+        "summary": "万象房地产开发与物业投资。"
+      },
+      "bolavenCassava": {
+        "name": "Bolaven Cassava",
+        "path": "收购",
+        "meta": "农业 · 成立于 2014 · 波罗芬高原",
+        "summary": "波罗芬高原木薯种植与收购。"
+      },
+      "indochinaPack": {
+        "name": "Indochina Pack",
+        "path": "合作",
+        "meta": "食品加工 · 成立于 2021 · 曼谷",
+        "summary": "位于曼谷的包装与食品加工合作伙伴。"
+      },
+      "annamTimber": {
+        "name": "Annam Timber",
+        "path": "投资",
+        "meta": "天然材料 · 成立于 2012 · 阿速坡",
+        "summary": "阿速坡可持续木材与天然材料。"
+      }
+    }
+  },
+  "paaAgro": {
+    "path": "自建",
+    "title": "PAA Agro",
+    "tagline": "覆盖老挝橡胶、木薯与畜牧的综合农业平台。",
+    "p1": "PAA Agro 是 PAA Empire Holdings 的起源运营公司。2023 年成立于万象，发展互联农业业务——从橡胶、木薯到畜牧——连接老挝与湄公河区域的土地、生产与市场。",
+    "p2": "从种植与收购到加工与市场准入，PAA Agro 构建面向长期农业价值的综合平台。",
+    "cta": "访问 PAA Agro 网站了解更多 →",
+    "facts": {
+      "path": {
+        "label": "路径",
+        "value": "自建"
+      },
+      "established": {
+        "label": "成立",
+        "value": "2023"
+      },
+      "ownership": {
+        "label": "股权",
+        "value": "100%"
+      },
+      "sector": {
+        "label": "行业",
+        "value": "农业"
+      },
+      "hq": {
+        "label": "总部",
+        "value": "老挝万象"
+      },
+      "land": {
+        "label": "管理土地",
+        "value": "12,400 公顷"
+      },
+      "people": {
+        "label": "员工",
+        "value": "480"
+      },
+      "md": {
+        "label": "董事总经理",
+        "value": "Khamla Phommasane"
+      }
+    },
+    "relatedTitle": "贯穿价值链的公司"
+  },
+  "contact": {
+    "heroLabel": "联系我们",
+    "heroTitle": "总部位于万象。",
+    "heroSubtitle": "位于老挝万象。",
+    "visitingLabel": "拜访地址",
+    "visitingLines": [
+      "PAA Empire Holdings",
+      "Lane Xang Avenue, Unit 12",
+      "Vientiane Capital, Lao PDR"
+    ],
+    "postalLabel": "邮寄地址",
+    "postalLines": [
+      "PAA Empire Holdings",
+      "P.O. Box 3180",
+      "Vientiane Capital, Lao PDR"
+    ],
+    "generalLabel": "一般咨询",
+    "phone": "+856 21 254 180",
+    "email": "contact@paa.holdings",
+    "pressLabel": "媒体联系",
+    "pressName": "Sengphet Vongphachanh",
+    "pressPhone": "+856 20 5551 2040",
+    "pressEmail": "contact@paa.holdings",
+    "locationLabel": "位置",
+    "locationCaption": "Lane Xang Avenue, Vientiane Capital"
+  },
+  "footer": {
+    "hqLabel": "总部",
+    "company": "PAA Empire Holdings",
+    "location": "Vientiane, Lao PDR"
+  }
+}
