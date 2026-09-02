@@ -1,15 +1,20 @@
 (function () {
   "use strict";
   var LOCALES = ["vi", "en", "zh", "lo"];
-  var DEFAULT = "vi";
+  var DEFAULT = "en";
   var dict = {};
   var locale = DEFAULT;
+
+  var PAGE_SLUGS = ["who-we-are", "investment-approach", "our-business", "paa-agro", "contact"];
 
   function base() {
     var path = window.location.pathname;
     var parts = path.split("/").filter(Boolean);
-    if (!parts.length || parts[parts.length - 1].indexOf(".html") !== -1) {
-      parts.pop();
+    if (parts.length) {
+      var last = parts[parts.length - 1];
+      if (last.indexOf(".html") !== -1 || last === "index" || PAGE_SLUGS.indexOf(last) !== -1) {
+        parts.pop();
+      }
     }
     var depth = parts.length;
     return depth ? "../".repeat(depth) : "./";

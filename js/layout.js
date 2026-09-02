@@ -1,22 +1,26 @@
 (function () {
   "use strict";
   var PAGES = {
-    home: "index.html",
-    "who-we-are": "who-we-are.html",
-    "investment-approach": "investment-approach.html",
-    "our-business": "our-business.html",
-    "paa-agro": "paa-agro.html",
-    contact: "contact.html"
+    home: "",
+    "who-we-are": "who-we-are",
+    "investment-approach": "investment-approach",
+    "our-business": "our-business",
+    "paa-agro": "paa-agro",
+    contact: "contact"
   };
 
   function page() {
-    var f = window.location.pathname.split("/").pop() || "index.html";
-    if (f === "" || f === "index.html") return "home";
-    return f.replace(".html", "");
+    var f = window.location.pathname.split("/").pop() || "";
+    if (f === "" || f === "index.html" || f === "index") return "home";
+    return f.replace(/\.html$/, "");
   }
 
   function b() { return window.PAA_I18N ? window.PAA_I18N.base() : "./"; }
-  function href(p) { return b() + (p === "home" ? "index.html" : PAGES[p]); }
+  function href(p) {
+    var path = PAGES[p];
+    if (p === "home") return b();
+    return b() + path;
+  }
 
   function langs() {
     return (
