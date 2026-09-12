@@ -5,7 +5,7 @@
   var dict = {};
   var locale = DEFAULT;
 
-  var PAGE_SLUGS = ["who-we-are", "investment-approach", "our-business", "paa-agro", "contact"];
+  var PAGE_SLUGS = ["who-we-are", "investment-approach", "our-business", "paa-agro", "contact", "demo"];
 
   function base() {
     var path = window.location.pathname;

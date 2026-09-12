@@ -340,6 +340,12 @@
     "locationLabel": "Vị trí",
     "locationCaption": "Lane Xang Avenue, Vientiane Capital"
   },
+  "demo": {
+    "label": "Demo",
+    "title": "Nông trại 360°",
+    "lead": "Khám phá nông trại qua tour ảo 360°. Kéo để nhìn xung quanh, hoặc mở toàn màn hình để xem rõ hơn.",
+    "openSource": "Mở trên Kuula →"
+  },
   "footer": {
     "hqLabel": "Trụ sở chính",
     "company": "PAA Empire Holdings",

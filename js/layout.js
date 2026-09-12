@@ -6,7 +6,8 @@
     "investment-approach": "investment-approach",
     "our-business": "our-business",
     "paa-agro": "paa-agro",
-    contact: "contact"
+    contact: "contact",
+    demo: "demo"
   };
 
   function page() {

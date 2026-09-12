@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Farm 360 Demo — PAA Empire Holdings</title>
+  <meta name="description" content="Interactive 360° farm tour — PAA Empire Holdings demo." />
+  <meta name="robots" content="noindex,nofollow" />
+  <link rel="canonical" href="https://paa.holdings/demo" />
+  <link rel="stylesheet" href="css/main.css" />
+</head>
+<body>
+  <header id="site-header"></header>
+  <div id="mobile-menu" class="mobile-menu" role="dialog" aria-modal="true"></div>
+
+  <main>
+    <section class="section section--cream demo-intro">
+      <div class="container text-center">
+        <span class="section-label" data-i18n="demo.label"></span>
+        <h1 class="section-title" data-i18n="demo.title"></h1>
+        <p class="section-lead" data-i18n="demo.lead"></p>
+      </div>
+    </section>
+
+    <section class="section demo-tour">
+      <div class="container">
+        <div class="kuula-embed">
+          <iframe
+            title="PAA Farm 360"
+            src="https://kuula.co/share/LdXjp?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1&keys=0"
+            allow="xr-spatial-tracking; gyroscope; accelerometer"
+            allowfullscreen
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+        <p class="map-caption">
+          <a href="https://kuula.co/post/LdXjp" target="_blank" rel="noopener noreferrer" data-i18n="demo.openSource"></a>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer id="site-footer"></footer>
+  <script src="js/layout.js"></script>
+  <script src="js/i18n.js"></script>
+</body>
+</html>

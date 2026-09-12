@@ -340,6 +340,12 @@
     "locationLabel": "位置",
     "locationCaption": "Lane Xang Avenue, Vientiane Capital"
   },
+  "demo": {
+    "label": "演示",
+    "title": "农场 360°",
+    "lead": "通过互动 360° 虚拟导览探索农场。拖动环顾四周，或全屏查看更清晰的画面。",
+    "openSource": "在 Kuula 打开 →"
+  },
   "footer": {
     "hqLabel": "总部",
     "company": "PAA Empire Holdings",
