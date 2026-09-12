@@ -9,36 +9,36 @@
   <link rel="canonical" href="https://paa.holdings/demo" />
   <link rel="stylesheet" href="css/main.css" />
 </head>
-<body>
+<body class="page-demo">
   <header id="site-header"></header>
   <div id="mobile-menu" class="mobile-menu" role="dialog" aria-modal="true"></div>
 
-  <main>
-    <section class="section section--cream demo-intro">
+  <main class="demo-main">
+    <section class="demo-intro">
       <div class="container text-center">
         <span class="section-label" data-i18n="demo.label"></span>
-        <h1 class="section-title" data-i18n="demo.title"></h1>
-        <p class="section-lead" data-i18n="demo.lead"></p>
+        <h1 class="demo-intro__title" data-i18n="demo.title"></h1>
+        <p class="demo-intro__lead" data-i18n="demo.lead"></p>
       </div>
     </section>
 
-    <section class="section demo-tour">
-      <div class="container">
-        <div class="kuula-embed">
-          <iframe
-            title="PAA Farm 360"
-            src="https://kuula.co/share/LdXjp?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1&keys=0"
-            allow="xr-spatial-tracking; gyroscope; accelerometer"
-            allowfullscreen
-            loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"
-          ></iframe>
-        </div>
-        <p class="map-caption">
-          <a href="https://kuula.co/post/LdXjp" target="_blank" rel="noopener noreferrer" data-i18n="demo.openSource"></a>
-        </p>
-      </div>
+    <section class="demo-tour" aria-label="Farm 360">
+      <iframe
+        class="kuula-embed__frame"
+        title="PAA Farm 360"
+        width="100%"
+        height="100%"
+        src="https://kuula.co/share/LdXjp?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1&keys=0"
+        allow="xr-spatial-tracking; gyroscope; accelerometer"
+        allowfullscreen
+        loading="eager"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
     </section>
+
+    <p class="demo-caption">
+      <a href="https://kuula.co/post/LdXjp" target="_blank" rel="noopener noreferrer" data-i18n="demo.openSource"></a>
+    </p>
   </main>
 
   <footer id="site-footer"></footer>
