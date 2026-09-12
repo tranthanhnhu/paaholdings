@@ -7,7 +7,34 @@
   <meta name="description" content="Interactive 360° farm tour — PAA Empire Holdings demo." />
   <meta name="robots" content="noindex,nofollow" />
   <link rel="canonical" href="https://paa.holdings/demo" />
-  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/main.css?v=20260912b" />
+  <style>
+    /* Critical: keep 360 full even if CDN serves cached CSS */
+    .page-demo #site-footer { display: none !important; }
+    .demo-main { display: flex; flex-direction: column; min-height: calc(100vh - 72px); }
+    .demo-intro { flex: 0 0 auto; padding: 1.35rem 0 1rem; background: #f7f6f2; }
+    .demo-intro__title { font-size: clamp(1.35rem, 2.2vw, 1.75rem); font-weight: 500; margin: 0 0 .5rem; }
+    .demo-intro__lead { max-width: 560px; margin: 0 auto; color: #3a3f44; font-size: .9rem; line-height: 1.55; }
+    .demo-tour {
+      flex: 1 1 auto;
+      position: relative;
+      width: 100%;
+      height: calc(100vh - 200px);
+      min-height: 620px;
+      background: #000;
+      overflow: hidden;
+      padding: 0;
+    }
+    .kuula-embed__frame {
+      position: absolute; inset: 0;
+      width: 100% !important; height: 100% !important;
+      border: 0; display: block; background: #000;
+    }
+    .demo-caption { text-align: center; margin: 0; padding: .65rem 1rem .85rem; background: #f7f6f2; font-size: .8125rem; color: #6b6560; }
+    @media (max-width: 768px) {
+      .demo-tour { min-height: 520px; height: calc(100vh - 220px); }
+    }
+  </style>
 </head>
 <body class="page-demo">
   <header id="site-header"></header>
@@ -26,8 +53,8 @@
       <iframe
         class="kuula-embed__frame"
         title="PAA Farm 360"
-        width="100%"
-        height="100%"
+        width="1920"
+        height="1080"
         src="https://kuula.co/share/LdXjp?logo=0&info=1&fs=1&vr=0&sd=1&thumbs=1&keys=0"
         allow="xr-spatial-tracking; gyroscope; accelerometer"
         allowfullscreen
@@ -41,8 +68,8 @@
     </p>
   </main>
 
-  <footer id="site-footer"></footer>
-  <script src="js/layout.js"></script>
-  <script src="js/i18n.js"></script>
+  <footer id="site-footer" hidden></footer>
+  <script src="js/layout.js?v=20260912b"></script>
+  <script src="js/i18n.js?v=20260912b"></script>
 </body>
 </html>

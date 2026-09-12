@@ -404,22 +404,16 @@ ul { list-style: none; }
 .map-caption a { color: var(--muted); text-decoration: underline; text-underline-offset: 2px; }
 .map-caption a:hover { color: var(--gold); }
 
-.demo-intro { padding-bottom: 2rem; }
-.demo-intro .section-title { margin-bottom: 1rem; }
-.demo-tour { padding-top: 0; }
-.kuula-embed {
-  position: relative; width: 100%; aspect-ratio: 16/9;
-  min-height: 420px; border-radius: 2px; overflow: hidden;
-  background: var(--navy);
-}
-.kuula-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.map-caption a:hover { color: var(--gold); }
 
 /* Demo / Farm 360 — always full-bleed viewer */
+.page-demo #site-footer,
+.page-demo .site-footer { display: none !important; }
 .page-demo .site-header { position: sticky; top: 0; z-index: 50; }
-.page-demo .site-footer { display: none; }
 .demo-main {
   display: flex;
   flex-direction: column;
+  min-height: calc(100vh - var(--header-h));
   min-height: calc(100dvh - var(--header-h));
 }
 .demo-intro {
@@ -445,7 +439,8 @@ ul { list-style: none; }
   flex: 1 1 auto;
   position: relative;
   width: 100%;
-  min-height: 70dvh;
+  min-height: 620px;
+  height: calc(100vh - var(--header-h) - 120px);
   height: calc(100dvh - var(--header-h) - 120px);
   background: #000;
   overflow: hidden;
@@ -474,14 +469,16 @@ ul { list-style: none; }
 
 @media (min-width: 1024px) {
   .demo-tour {
-    min-height: 78dvh;
+    min-height: 700px;
+    height: calc(100vh - var(--header-h) - 110px);
     height: calc(100dvh - var(--header-h) - 110px);
   }
 }
 
 @media (max-width: 768px) {
   .demo-tour {
-    min-height: 65dvh;
+    min-height: 520px;
+    height: calc(100vh - var(--header-h) - 150px);
     height: calc(100dvh - var(--header-h) - 150px);
   }
 }

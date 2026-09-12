@@ -93,7 +93,7 @@
 
   function footer() {
     var el = document.getElementById("site-footer");
-    if (!el) return;
+    if (!el || page() === "demo" || el.hasAttribute("hidden")) return;
     el.innerHTML =
       '<div class="site-footer"><div class="footer-inner">' +
       '<a href="' + href("home") + '"><img class="footer-logo" src="' + b() + 'assets/images/logo/mark-white.png" alt="PAA" width="48" height="43" /></a>' +
