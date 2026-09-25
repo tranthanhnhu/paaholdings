@@ -1,23 +1,27 @@
-RewriteEngine On
-RewriteBase /
+# Hostinger (Apache) — static site helpers
+# Copied into out/ via public/
 
-# Shorter cache for CSS/JS so updates show up after deploy
-<IfModule mod_headers.c>
-  <FilesMatch "\.(css|js)$">
-    Header set Cache-Control "public, max-age=3600, must-revalidate"
-  </FilesMatch>
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # `/` → default locale
+  RewriteRule ^$ vi/ [R=302,L]
+
+  # Optional: force trailing slash for directories (matches Next trailingSlash)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} !(.*)/$
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ $1/ [L,R=301]
 </IfModule>
 
-# Redirect /index.html and /index to /
-RewriteCond %{THE_REQUEST} \s/+index(?:\.html)?[\s?] [NC]
-RewriteRule ^ / [R=301,L]
-
-# Redirect other .html URLs to clean paths
-RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
-RewriteRule ^ /%1 [R=301,L,NE]
-
-# Serve matching .html files for clean URLs
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.+?)/?$ $1.html [L]
+# Cache static assets lightly (optional)
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/javascript "access plus 7 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/webp "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+</IfModule>
